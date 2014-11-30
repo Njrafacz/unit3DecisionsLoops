@@ -30,6 +30,10 @@ The universe of the Game of Life is an infinite two-dimensional orthogonal
 	moment at which this happens is sometimes called a tick (in other words,
 	each generation is a pure function of the preceding one). The rules
 	continue to be applied repeatedly to create further generations.
+*The grid will be 50x50
+*Live cells will be actors
+*2 generations will occur.
+*The time interval between generations will be 1/2th of a second.
 
 
 Nonfunctional Requirements:
@@ -66,6 +70,11 @@ Artifacts to Produce:
 	like or dislike and why? What was surprising or unexpected? What did you
 	learn? What questions do you still have? What advice would you offer next
 	year's students?
+	-This is one of the most difficult labs I have ever worked on. Usually I never struggle with
+	completing assignments on timehowever this took me a very long time to complete, and it was not as
+	satisfactory as I would have liked it to be. I liked the challenge but also disliked the stress
+	it put onto me. I learned about arrays and grids. I would offer the advice to make sure you understand
+	what you are doing and ask for help if you don't understand something.
 
 
 Submission:
