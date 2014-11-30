@@ -43,6 +43,7 @@ public class GameOfLife
         
         // populate the game
         populateGame();
+        populateGame1();
         
         // display the newly constructed and populated world
         world.show();
@@ -146,6 +147,14 @@ public class GameOfLife
         
     
     }
+    
+    /**
+    * Creates the actors and inserts them into their initial starting positions in the grid
+    *
+    * @pre the grid has been created
+    * @post all actors that comprise the initial state of the game have been added to the grid
+    * 
+    */
     public void populateGame1()
     {
         // the grid of Actors that maintains the state of the game
@@ -316,10 +325,10 @@ public class GameOfLife
         
         {
             GameOfLife game = new GameOfLife();
-            for (int counter=0; counter <=1; counter++)
+            for (int counter=0; counter <=75; counter++)
             {
                 game.createNextGeneration();
-                Thread.sleep(500);
+                Thread.sleep(100);
                 
             }
     }
