@@ -17,7 +17,7 @@ public class GameOfLifeTest
     /**
     * Sets up the test fixture.
     *
-    * Called before every test case method.
+    * Called before every test case method
     */
     @Before
     public void setUp()

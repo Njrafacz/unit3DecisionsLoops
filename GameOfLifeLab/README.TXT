@@ -74,7 +74,7 @@ Artifacts to Produce:
 	completing assignments on timehowever this took me a very long time to complete, and it was not as
 	satisfactory as I would have liked it to be. I liked the challenge but also disliked the stress
 	it put onto me. I learned about arrays and grids. I would offer the advice to make sure you understand
-	what you are doing and ask for help if you don't understand something.
+	what you are doing and ask for help if you don't understand something. That is the key to success.
 
 
 Submission:

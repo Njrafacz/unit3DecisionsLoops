@@ -15,7 +15,7 @@ import java.util.ArrayList;
 */
 public class GameOfLife
 {
-    // the world comprised of the grid that displays the graphics for the game
+    // the world comprised of the grid that displays the graphics for the game 
     private ActorWorld world;
     
     // the game board will have 50 rows and 50 columns
@@ -68,7 +68,7 @@ public class GameOfLife
         Rock rock1 = new Rock();
         Location loc1 = new Location(1, 2);
         grid.put(loc1, rock1);
-        
+        //
         Rock rock2 = new Rock();
         Location loc2 = new Location(1, 3);
         grid.put(loc2, rock2);
